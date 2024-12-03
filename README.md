@@ -1,6 +1,9 @@
 # AIO-TrendingBot
 Pinksale.Finance, pump.fun, Moonshot, Dextools, Dexscreener Trending / UpVote Bot
 
+![PinksaleTrendingGif](https://github.com/po0urya/AIO-TrendingBot/blob/main/PinksaleTrending.gif)
+![DextoolsTrendingGif](https://github.com/po0urya/AIO-TrendingBot/blob/main/DextoolsTrending.gif)
+
 A comprehensive bot designed to automate various actions like trending, spamming, upvoting, and more on popular cryptocurrency sites such as Dextools, PinkSale.finance, Pump.fun, and Moonshot. This bot is developed in C# and is intended for advanced users who want to gain a presence on these platforms.
 
 ## Features
